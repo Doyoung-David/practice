@@ -1,10 +1,12 @@
 # git 명령어
+## git 시작하기
 ### git 프로젝트 초기화
 - 현재 폴더 및 파일 및 하위 폴더 & 파일을 git으로 관리한다.
 ```bash
 git init
 ```
 
+## 작업 내역 commit 하기
 ### 프로젝트 add 
 - 프로젝트를 staging area로 이동시킨다
 ```bash
