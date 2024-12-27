@@ -19,8 +19,21 @@ git add .
 git commit -m "메세지"
 ```
 
+### 깃 설정
+```bash
+git config user.name "Doyoung-David"
+
+git config user.email "brightenway@outlook.com"
+
+git branch -M main
+
+git remote add origin https://github.com/Doyoung-David/practice.git
+```
+
 ### 프로젝트 push
 - 로컬 저장소에서 원격 저장소로 이동시킨다.
 ```bash
 git push origin main
 ```
+
+### 
