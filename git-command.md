@@ -18,3 +18,9 @@ git add .
 ```bash
 git commit -m "메세지"
 ```
+
+### 프로젝트 push
+- 로컬 저장소에서 원격 저장소로 이동시킨다.
+```bash
+git push origin main
+```
